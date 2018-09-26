@@ -168,6 +168,8 @@ Researchers who participated in the development of the projections:
 </tr>
 <tr>
 <td colspan="3"<sup>a</sup> From the Wittgenstein Centre for Demography and Global Human Capital</td>
+</tr>
+<tr>
 <td colspan="3"<sup>b</sup> Centre of Expertise on Population and Migration (CEPAM), Joint Research Center</td>
 </tr>
 </tbody>
